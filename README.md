@@ -1,24 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Evgeniy | Python / Golang Developer
 
-<!--
-**ebarykin/ebarykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LeetCode Stats](https://leetcode-stats-card-ig-idk.vercel.app/api/stats/ebarykin?theme=arch&width=350)](https://leetcode.com/ebarykin/)
 
-Here are some ideas to get you started:
+**Write clean code · Solve hard problems** · Currently at AstraZeneca (Data Hub, K8s, Serverless)  
+**LeetCode 1703 — Top 12% globally**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![LeetCode Stats](https://leetcode-stats-card-ig-idk.vercel.app/api/stats/ebarykin?theme=arch)](https://leetcode.com/ebarykin/)
+**Stack:** Python, Go, FastAPI, Kafka, PostgreSQL, Redis, K8s, Yandex.Cloud
 
-![LeetCode Stats](https://leetcode-stats-card-ig-idk.vercel.app/api/stats/ebarykin?theme=arch&width=280&hide_total_solved=true&hide_rank=false&show_rating=true)](https://leetcode.com/ebarykin/)
-
-
-[![LeetCode Stats](https://leetcode-stats-card-ig-idk.vercel.app/api/stats/ebarykin?theme=arch&width=300&hide_total_solved=true&show_rank=true&hide_rating=false)](https://leetcode.com/ebarykin/)
-
-[![LeetCode Rating](https://img.shields.io/badge/dynamic/json?style=flat-square&label=LeetCode%20Rating&query=data.contestRating&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Febarykin%2Fcontest&color=orange&logo=LeetCode&logoColor=yellow)](https://leetcode.com/ebarykin/)
+📫 [Telegram](https://t.me/Evg_tgh) · [LeetCode](https://leetcode.com/u/ebarykin/)
