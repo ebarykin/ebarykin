@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![LeetCode Top](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Top&query=data.topPercentage&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Febarykin&color=brightgreen&logo=LeetCode&logoColor=yellow)](https://leetcode.com/ebarykin/)
+
+
+[![LeetCode Rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Rating&query=data.rating&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Febarykin&color=orange&logo=LeetCode&logoColor=yellow)](https://leetcode.com/ebarykin/)
