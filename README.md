@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![LeetCode Stats](https://leetcode-stats-card-ig-idk.vercel.app/api/stats/ebarykin?theme=arch)](https://leetcode.com/ebarykin/)
-
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ebarykin&theme=dark&animated=true)](https://leetcode.com/ebarykin/)
+[![LeetCode Rating](https://img.shields.io/badge/dynamic/json?style=flat-square&label=LeetCode%20Rating&query=data.contestRating&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Febarykin%2Fcontest&color=orange&logo=LeetCode&logoColor=yellow)](https://leetcode.com/ebarykin/)
