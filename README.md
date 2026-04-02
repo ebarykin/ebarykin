@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LeetCode Top](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Top%20Percentile&query=data.topPercentage&url=https%3A%2F%2Fleetcode-stats.tashif.codes%2Febarykin%2Fcontests&color=brightgreen&logo=LeetCode&logoColor=yellow)](https://leetcode.com/ebarykin/)
-
-
-[![LeetCode Stats](https://leetcode-stats.tashif.codes/api/leetcode-stats?username=ebarykin&show_rank=true&show_total_solved=true&show_contest_rating=true)](https://leetcode.com/ebarykin/)
+[![LeetCode Stats](https://leetcode-stats-card-ig-idk.vercel.app/api/stats/ebarykin?theme=arch)](https://leetcode.com/ebarykin/)
